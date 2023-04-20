@@ -7,17 +7,17 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://jekyllt.github.io/vitae
+url: https://cursedmummy7.github.io/CVitare/
 author: Fábio Madeira
 
 # edit this section with your information
 # jekyllt.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
+baseurl: /CVitare.github.io/
+title: Currriculum de Sergio Silva
+name: Sergio Silva Fuentes
+email: sergio777.117@gmail.com 
+email_full: sergio777.117@gmail.com
 website: github.io/sustain
 website_full: https://jekyllt.github.io/sustain
 github: trending
